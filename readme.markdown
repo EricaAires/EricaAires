@@ -6,7 +6,7 @@
 </p>
 
 <h2>✨About me:</h2>
-<img align="right" width="190px" style="margin-top:50px" src="IMAGE/profile-pic (24).png">
+<img align="right" width="200px" style="margin-top:-50px" src="IMAGE/profile-pic (24).png">
 
 <h2 align="left"><i>Hello! My name is Érica, I'm 23 years old and I'm a Systems Analysis and Development student.
 I am currently also studying Cloud Solution and Architect, to understand infrastructure and cloud solutions.
