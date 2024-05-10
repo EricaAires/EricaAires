@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=150&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=150&section=header"/>
 
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github!" alt="devtech77snake" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=FF1493&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github!" alt="devtech77snake" /></a>
 </p>
 
 <h2>✨About me:</h2>
@@ -105,7 +105,7 @@ I have knowledge in Programming, Linux systems (ubuntu and kali linux), mySQL da
 <br>
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Thank+you+for+visiting+my+profile!" alt="devtech77snake" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=FF1493&center=true&vCenter=true&random=false&width=600&height=60&lines=Thank+you+for+visiting+my+profile!" alt="devtech77snake" /></a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=150&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=150&section=footer"/>
