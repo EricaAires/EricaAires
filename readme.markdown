@@ -9,7 +9,7 @@
 <img align="right" width="190px" style="margin-top:-100px" src="IMAGE/profile-pic (24).png">
 
 <h2 align="left"><i>Hello! My name is Érica, I'm 23 years old and I'm a Systems Analysis and Development student.
-I am currently also studying Cloud Solution and Architect, to understand infrastructure and cloud solutions.
+I am currently also studying Cloud Solution Architect, to understand infrastructure and cloud solutions.
 I have knowledge in Programming, Linux systems (ubuntu and kali linux), mySQL database.</i></h2>
 
 <br>
