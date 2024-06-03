@@ -88,7 +88,7 @@ I have knowledge in Programming, Linux systems (ubuntu and kali linux), mySQL da
  <a href="https://www.linkedin.com/in/%C3%A9rica-aires-4056062ab/">
     <img align="center" width="50px" src="ICONS/icons8-linkedin-94.png" alt="Linkedin">
   </a> 
-  <a href="https://www.instagram.com/erica_s.airess/">
+  <a href="https://www.instagram.com/erica_s.aires/">
     <img align="center" width="50px" src="ICONS/icons8-instagram-94.png" alt="Instagram">
   </a>
   <a href="https://wa.me/5555996068168">
